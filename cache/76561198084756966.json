@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198084756966",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "DKINDAHOUSE",
+				"lastlogoff": 1511272882,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/awqfqfgvwafass/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/44/44780a8cb827a212dadbd0981c8834a2e1b4b7c7.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/44/44780a8cb827a212dadbd0981c8834a2e1b4b7c7_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/44/44780a8cb827a212dadbd0981c8834a2e1b4b7c7_full.jpg",
+				"personastate": 1,
+				"realname": "Денис",
+				"primaryclanid": "103582791433341052",
+				"timecreated": 1361716993,
+				"personastateflags": 512,
+				"loccountrycode": "UA"
+			}
+		]
+		
+	}
+}
